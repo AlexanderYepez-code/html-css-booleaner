@@ -9,3 +9,15 @@ header{
     width: 200px;
     
 }
+.subtittle{
+    font-size: 18px;
+    color: gray
+
+}
+
+.blue-letter{
+    color: blue;
+}
+.yellow-bar{
+    background-color: yellow;
+}
