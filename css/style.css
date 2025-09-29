@@ -21,3 +21,21 @@ header{
 .yellow-bar{
     background-color: yellow;
 }
+.tittle-table{
+    padding: 10px 10px;
+    background-color: rgb(103, 103, 226);
+  
+}
+.white-letters{
+    color: white;
+}
+.img-1{
+    background-image: url(../img/img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: 25 px 35px;
+    
+}
+.img-2{
+    background-image: url(../img/img/graph.jpg);
+    background-repeat: no-repeat;
+}
